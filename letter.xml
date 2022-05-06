@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "style.xsl"?>
+
+
+<courrier>
+
+    <letter>
+<emetteur> Mlle Salma </emetteur>
+<recepteur> M Yahia </recepteur>
+<objet>ili yji </objet>
+<date>
+<jour>12</jour>
+<mois>janvier</mois>
+<annee>2002</annee>
+</date>
+</letter>
+
+ <letter>
+<emetteur> Mlle imen </emetteur>
+<recepteur> M Yahia </recepteur>
+<objet>ili yji </objet>
+<date>
+<jour>12</jour>
+<mois>Mars</mois>
+<annee>2002</annee>
+</date>
+</letter>
+
+</courrier>
